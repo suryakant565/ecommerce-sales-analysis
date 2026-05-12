@@ -2,7 +2,7 @@
 # 📊 E-commerce Sales Analysis
 
 ## 🔍 Overview
-Analyzed e-commerce sales data using SQL and Power BI to uncover insights about revenue, customer behavior, and product performance.
+I analyzed e-commerce sales data using SQL and Power BI to uncover insights about revenue, customer behavior, and product performance.
 
 ## 🛠 Tools Used
 - MySQL
@@ -15,12 +15,9 @@ Analyzed e-commerce sales data using SQL and Power BI to uncover insights about 
 - Online channel generated highest revenue
 - High-value customers drove majority of sales
 
-## 📊 Dashboard
-(Add screenshot here)
 
 ## 📁 Files
 - SQL Queries
-- Dashboard
 - Report
 - Dataset
 
