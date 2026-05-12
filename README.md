@@ -177,17 +177,17 @@ Contains product category and pricing details.
 # 📊 Dashboard Preview
 
 ## 📈 Monthly Revenue Trend
-![Revenue Trend](Dashboard/revenue_trend.png)
+![Revenue Trend](Dashboard/revenue_trend.png.png)
 
 ---
 
 ## 💳 Payment Revenue Share
-![Payment Revenue](Dashboard/payment_share.png)
+![Payment Revenue](Dashboard/payment_share.png.png)
 
 ---
 
 ## 🌍 Regional Revenue
-![Regional Revenue](Dashboard/regional_revenue.png)
+![Regional Revenue](Dashboard/regional_revenue.png.png)
 ---
 
 
