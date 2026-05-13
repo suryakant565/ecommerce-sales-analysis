@@ -8,6 +8,12 @@ The analysis was performed using **MySQL** for data querying and **Power BI** fo
 
 ---
 
+# 📊 Dashboard Preview
+
+## 📈 Monthly Revenue Trend
+![Dashboard](Dashboard/e-commerse_Dashboard.png)
+---
+
 # 🎯 Business Objective
 
 The goal of this project is to transform raw transactional data into meaningful business insights that can help decision-makers:
@@ -174,22 +180,6 @@ Contains product category and pricing details.
 * Other regions showed declining or stagnant performance.
 
 ---
-# 📊 Dashboard Preview
-
-## 📈 Monthly Revenue Trend
-![Revenue Trend](Dashboard/revenue_trend.png.png)
-
----
-
-## 💳 Payment Revenue Share
-![Payment Revenue](Dashboard/payment_share.png.png)
-
----
-
-## 🌍 Regional Revenue
-![Regional Revenue](Dashboard/regional_revenue.png.png)
----
-
 
 # 🧠 SQL Concepts Used
 
