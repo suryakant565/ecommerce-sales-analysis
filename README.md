@@ -8,10 +8,9 @@ The analysis was performed using **MySQL** for data querying and **Power BI** fo
 
 ---
 
-# 📊 Dashboard Preview
+# E-Commerce Dashboard
 
-## 📈 Monthly Revenue Trend
-![Dashboard](Dashboard/e-commerse_Dashboard.png)
+![Dashboard Preview](Dashboard\e-commerse Dashboard.png)
 ---
 
 # 🎯 Business Objective
