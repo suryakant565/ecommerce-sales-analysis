@@ -10,7 +10,7 @@ The analysis was performed using **MySQL** for data querying and **Power BI** fo
 
 # E-Commerce Dashboard
 
-![Dashboard Preview](Dashboard/ecommerce_dashboard.png)
+![Dashboard Preview](Dashboard/ecommerse_Dashboard.png)
 ---
 
 # 🎯 Business Objective
