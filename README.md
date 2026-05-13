@@ -174,6 +174,22 @@ Contains product category and pricing details.
 * Other regions showed declining or stagnant performance.
 
 ---
+# 📊 Dashboard Preview
+
+## 📈 Monthly Revenue Trend
+![Revenue Trend](Dashboard/revenue_trend.png.png)
+
+---
+
+## 💳 Payment Revenue Share
+![Payment Revenue](Dashboard/payment_share.png.png)
+
+---
+
+## 🌍 Regional Revenue
+![Regional Revenue](Dashboard/regional_revenue.png.png)
+---
+
 
 # 🧠 SQL Concepts Used
 
